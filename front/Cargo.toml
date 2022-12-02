@@ -7,7 +7,7 @@ edition = "2021"
 license = "MIT OR Apache-2.0"
 homepage = "https://github.com/j-martina/doom-front/"
 repository = "https://github.com/j-martina/doom-front/"
-categories = ["compiler", "game-development"]
+categories = ["compiler", "game-development", "parser-implementations"]
 keywords = ["parser", "compiler", "doom", "dsl", "frontend"]
 publish = false
 
