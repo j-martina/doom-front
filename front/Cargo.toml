@@ -1,0 +1,17 @@
+[package]
+name = "doom-front"
+description = "Frontends for Doom source port domain-specific languages"
+authors = ["Jerome Martina"]
+version = "0.0.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+homepage = "https://github.com/j-martina/doom-front/"
+repository = "https://github.com/j-martina/doom-front/"
+categories = ["compiler", "game-development"]
+keywords = ["parser", "compiler", "doom", "dsl", "frontend"]
+publish = false
+
+[dependencies]
+bitflags = "1.3.2"
+pest = "2.5.0"
+pest_derive = "2.5.0"

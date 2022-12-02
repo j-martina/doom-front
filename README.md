@@ -27,3 +27,14 @@ UMAPINFO is the creation of the following authors:
 - Fabian Greffrath ([@fabiangreffrath](https://github.com/fabiangreffrath))
 - Roman Fomin ([@rfomin](https://github.com/rfomin))
 - [@Shadow-Hog](https://github.com/Shadow-Hog)
+
+---
+
+- bitflags
+	- By Ashley Mannix ([@KodrAus](https://github.com/KodrAus)) et. al.
+	- Provided under the [Apache 2.0 License](https://github.com/bitflags/bitflags/blob/main/LICENSE-APACHE) and [MIT License](https://github.com/bitflags/bitflags/blob/main/LICENSE-MIT).
+	- https://docs.rs/bitflags/latest/bitflags/
+- pest
+	- By the [pest-parser](https://github.com/pest-parser) organisation, Dragoș Tiselice ([@dragostis](https://github.com/dragostis)), et. al.
+	- Provided under the [Apache 2.0 License](https://github.com/pest-parser/pest/blob/master/LICENSE-APACHE) and [MIT License](https://github.com/pest-parser/pest/blob/master/LICENSE-MIT).
+	- https://docs.rs/pest/latest/pest/
