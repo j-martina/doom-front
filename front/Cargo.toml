@@ -13,5 +13,19 @@ publish = false
 
 [dependencies]
 bitflags = "1.3.2"
-pest = "2.5.0"
-pest_derive = "2.5.0"
+indexmap = { version = "1.9.2", features = ["rayon"] }
+parking_lot = "0.12.1"
+peg = "0.8.1"
+rayon = { version = "1.6.1", optional = true }
+serde = { version = "1.0.140", features = ["derive"], optional = true }
+vec1 = "1.10.1"
+zscript_parser = { version = "0.2.0", features = [
+	"gzd_folder_filesystem",
+	"multithreaded",
+	"serialize",
+] }
+
+[features]
+default = []
+rayon = ["dep:rayon"]
+serde = ["dep:serde", "indexmap/serde", "vec1/serde"]

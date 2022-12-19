@@ -34,7 +34,23 @@ UMAPINFO is the creation of the following authors:
 	- By Ashley Mannix ([@KodrAus](https://github.com/KodrAus)) et. al.
 	- Provided under the [Apache 2.0 License](https://github.com/bitflags/bitflags/blob/main/LICENSE-APACHE) and [MIT License](https://github.com/bitflags/bitflags/blob/main/LICENSE-MIT).
 	- https://docs.rs/bitflags/latest/bitflags/
-- pest
-	- By the [pest-parser](https://github.com/pest-parser) organisation, Dragoș Tiselice ([@dragostis](https://github.com/dragostis)), et. al.
-	- Provided under the [Apache 2.0 License](https://github.com/pest-parser/pest/blob/master/LICENSE-APACHE) and [MIT License](https://github.com/pest-parser/pest/blob/master/LICENSE-MIT).
-	- https://docs.rs/pest/latest/pest/
+- indexmap
+    - By [@bluss](https://github.com/bluss), Josh Stone ([@cuviper](https://github.com/cuviper)), et al.
+    - Provided under the [Apache 2.0 License](https://github.com/bluss/indexmap/blob/master/LICENSE-APACHE) and [MIT License](https://github.com/bluss/indexmap/blob/master/LICENSE-MIT).
+	- https://docs.rs/indexmap/latest/indexmap/
+- parking_lot
+	- By Amanieu d'Antras ([@Amanieu](https://github.com/Amanieu)) et al.
+	- Provided under the [Apache 2.0 License](https://github.com/Amanieu/parking_lot/blob/master/LICENSE-APACHE) and [MIT License](https://github.com/Amanieu/parking_lot/blob/master/LICENSE-MIT).
+	- https://docs.rs/parking_lot/latest/parking_lot/
+- peg
+    - By Kevin Mehall ([@kevinmehall](https://github.com/kevinmehall)) et al.
+    - Provided under the [MIT License](https://github.com/kevinmehall/rust-peg/blob/master/LICENSE).
+    - https://docs.rs/peg/latest/peg/
+- vec1
+	- By Philipp Korber ([@rustonaut](https://github.com/rustonaut)) et al.
+	- Provided under the [Apache 2.0 License and MIT License](https://docs.rs/crate/vec1/latest) (see section: License).
+	- https://docs.rs/vec1/latest/vec1/
+- zscript_parser
+	- By Jessica Russell ([@Gutawer](https://gitlab.com/Gutawer)).
+	- Provided under the [MIT License](https://gitlab.com/Gutawer/zscript_parser/-/blob/master/LICENSE).
+	- https://gitlab.com/Gutawer/zscript_parser
