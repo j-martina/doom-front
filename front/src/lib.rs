@@ -9,6 +9,7 @@
 //! a filesystem entry of some kind, whether that be a real file, a WAD archive
 //! entry, or some other compressed archive entry.
 
+pub mod cvarinfo;
 pub mod loadacs;
 
 pub type ParseError = peg::error::ParseError<<str as peg::Parse>::PositionRepr>;
