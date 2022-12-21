@@ -11,6 +11,7 @@
 
 pub mod cvarinfo;
 pub mod loadacs;
+pub extern crate zscript_parser as zscript;
 
 pub type ParseError = peg::error::ParseError<<str as peg::Parse>::PositionRepr>;
 
