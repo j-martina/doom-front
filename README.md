@@ -31,7 +31,7 @@ UMAPINFO is the creation of the following authors:
 ---
 
 - bitflags
-	- By Ashley Mannix ([@KodrAus](https://github.com/KodrAus)) et. al.
+	- By Ashley Mannix ([@KodrAus](https://github.com/KodrAus)) et al.
 	- Provided under the [Apache 2.0 License](https://github.com/bitflags/bitflags/blob/main/LICENSE-APACHE) and [MIT License](https://github.com/bitflags/bitflags/blob/main/LICENSE-MIT).
 	- https://docs.rs/bitflags/latest/bitflags/
 - indexmap
